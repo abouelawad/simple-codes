@@ -17,9 +17,6 @@ $devices = [
 ['item' => 'sitting' , 'price' => 13000 , 'link' => 'sdsfbs'],
 ['item' => 'bed room' , 'price' => 30000 , 'link' => 'sdsfbs'],
 
-
-
-    
 ];
 
 
